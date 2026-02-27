@@ -137,7 +137,13 @@
             "enableTableFilterInPageVariant": true,
             "filterSettings": {
               "dateSettings": {
-                "useDateRange": true
+                "useDateRange": true,
+                "fields": {
+                  "CreationDate": {
+                    "filter": [],
+                    "selectedValues": "DATE,DATERANGE,FROM,TO,YEARTODATE,YEAR,YESTERDAY,TODAY,THISWEEK,THISQUARTER,THISMONTH,LASTMONTH,LASTQUARTER"
+                  }
+                }
               }
             },
             "tableSettings": {

@@ -11,6 +11,7 @@
                 <Annotation Term="UI.SelectionFields">
                     <Collection>
                         <PropertyPath>CreatedByUser</PropertyPath>
+                        <PropertyPath>CreationDate</PropertyPath>
                     </Collection>
                 </Annotation>
                 <Annotation Term="UI.LineItem">
