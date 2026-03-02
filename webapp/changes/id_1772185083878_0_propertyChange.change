@@ -31,9 +31,9 @@
     "oDataInformation": {},
     "dependentSelector": {},
     "validAppVersions": {
-        "from": "0.0.2",
-        "to": "0.0.2",
-        "creation": "0.0.2"
+        "from": "0.0.3",
+        "to": "0.0.3",
+        "creation": "0.0.3"
     },
     "jsOnly": false,
     "variantReference": "",
